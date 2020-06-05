@@ -1,0 +1,10 @@
+; Copy this file to bot.ini and write your own credentials there
+
+[OAuth]
+client_id = YOUR_CLIENT_ID
+client_secret = YOUR_CLIENT_SECRET
+port = 4001
+
+[JWT]
+api_key = YOUR_API_KEY
+api_secret = YOUR_API_SECRET
